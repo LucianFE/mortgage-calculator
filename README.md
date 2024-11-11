@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Link](https://github.com/LucianFE/mortgage-calculator)
-- Live Site URL: [Live](https://morgage-calculator-react.netlify.app/)
+- Live Site URL: [Live](https://mortgage-calculator-built-with-react.netlify.app/)
 
 ## My process
 
